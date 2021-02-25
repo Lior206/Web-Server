@@ -1,0 +1,7 @@
+﻿  WebServer.cpp
+C:\Users\liorh\Desktop\WebServer\WebServer\WebServer.h(73,2): warning C4091: 'typedef ': ignored on left of 'eClientRequest' when no variable is declared
+C:\Users\liorh\Desktop\WebServer\WebServer\WebServer.cpp(454): warning C4172: returning address of local variable or temporary: header
+C:\Users\liorh\Desktop\WebServer\WebServer\WebServer.cpp(528): warning C4172: returning address of local variable or temporary: htmlFileName
+C:\Users\liorh\Desktop\WebServer\WebServer\WebServer.cpp(587): warning C4172: returning address of local variable or temporary: result
+C:\Users\liorh\Desktop\WebServer\WebServer\WebServer.cpp(597): warning C4172: returning address of local variable or temporary: delimiter
+  WebServer.vcxproj -> C:\Users\liorh\Desktop\WebServer\Debug\WebServer.exe
